@@ -1,0 +1,16 @@
+{
+  "name": "weather_promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipesh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "f-c": "^1.0.0",
+    "yargs": "^8.0.2"
+  }
+}
